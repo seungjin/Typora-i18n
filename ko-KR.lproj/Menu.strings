@@ -267,8 +267,8 @@
 "Pause" = "Pause";
 
 /*
-"Spell Check" = "Spell Check";
-"Unlearn Spelling" = "Unlearn Spelling";
+"Spell Check" = "스펠링 체크";
+"Unlearn Spelling" = "스펠링 체크 제외";
 "*/
 "Properties" = "속성";
 
